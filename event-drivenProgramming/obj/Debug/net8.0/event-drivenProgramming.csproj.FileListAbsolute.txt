@@ -1,0 +1,14 @@
+/home/jaum/RiderProjects/event-drivenProgramming/event-drivenProgramming/bin/Debug/net8.0/event-drivenProgramming
+/home/jaum/RiderProjects/event-drivenProgramming/event-drivenProgramming/bin/Debug/net8.0/event-drivenProgramming.deps.json
+/home/jaum/RiderProjects/event-drivenProgramming/event-drivenProgramming/bin/Debug/net8.0/event-drivenProgramming.runtimeconfig.json
+/home/jaum/RiderProjects/event-drivenProgramming/event-drivenProgramming/bin/Debug/net8.0/event-drivenProgramming.dll
+/home/jaum/RiderProjects/event-drivenProgramming/event-drivenProgramming/bin/Debug/net8.0/event-drivenProgramming.pdb
+/home/jaum/RiderProjects/event-drivenProgramming/event-drivenProgramming/obj/Debug/net8.0/event-drivenProgramming.GeneratedMSBuildEditorConfig.editorconfig
+/home/jaum/RiderProjects/event-drivenProgramming/event-drivenProgramming/obj/Debug/net8.0/event-drivenProgramming.AssemblyInfoInputs.cache
+/home/jaum/RiderProjects/event-drivenProgramming/event-drivenProgramming/obj/Debug/net8.0/event-drivenProgramming.AssemblyInfo.cs
+/home/jaum/RiderProjects/event-drivenProgramming/event-drivenProgramming/obj/Debug/net8.0/event-drivenProgramming.csproj.CoreCompileInputs.cache
+/home/jaum/RiderProjects/event-drivenProgramming/event-drivenProgramming/obj/Debug/net8.0/event-drivenProgramming.dll
+/home/jaum/RiderProjects/event-drivenProgramming/event-drivenProgramming/obj/Debug/net8.0/refint/event-drivenProgramming.dll
+/home/jaum/RiderProjects/event-drivenProgramming/event-drivenProgramming/obj/Debug/net8.0/event-drivenProgramming.pdb
+/home/jaum/RiderProjects/event-drivenProgramming/event-drivenProgramming/obj/Debug/net8.0/event-drivenProgramming.genruntimeconfig.cache
+/home/jaum/RiderProjects/event-drivenProgramming/event-drivenProgramming/obj/Debug/net8.0/ref/event-drivenProgramming.dll
